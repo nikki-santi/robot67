@@ -5,4 +5,44 @@
 ### Robot duty: Ping pong ball delivery
 When a ping ball ball is dropped onto the floor the bot will use a claw to pick up the claw and grip the ball. It will then start driving to wherever the user/driver of the bot would like. The bot need to be able to go on and around many different surfaces. The most important thing is the material of the bot will be the tires and the claw to create a non slick surface wich wont drop the ball. 
 
-Parts List for clawbot tank drive: 30x #8-32 Hex Nut,30x #8-32x0.375" Star Drive Screw,4x #8-32x0.500" Locking Star Drive Screw,2x 8-32x1.000" Star Drive Screw,
+### Parts List for clawbot tank drive: 
+#### 30x #8-32 Hex Nut
+#### 30x #8-32x0.375" Star Drive Screw
+#### 4x #8-32x0.500" Locking Star Drive Screw 
+#### 2x 8-32x1.000" Star Drive Screw
+#### 6x 8-32x1.500" Locking Star Drive Screw 
+#### 8x 0.125" Nylon Spacer
+#### 4x 0.375" Nylon Spacer 
+#### 3x 0.500" Nylon Spacer 
+#### 2x 0.875" Nylon Spacer 
+#### 10x High strength gear shaft insert
+#### 1x high strength shaft adapter (1/8" Square Bore, 1/2" Long) 
+#### 1x 12T Gear (1/8" Bore)
+#### 1x 12T Metal pinion
+#### 2x #32 Rubber band
+#### 5x Bearing flat
+#### 5x 1-post hex nut retainer 
+#### 7x 4-post hex nut retainer
+#### 15x 1-post hex nut retainer with bearing flat
+#### 6x 0x2 connecter pin
+#### 23x rubber shaft collar 
+#### 1x 84T high strength gear
+#### 3x 8xpitch shaft
+#### 1x 7xpitch shaft
+#### 2x 6xpitch shaft 
+#### 3x 4xpitch shaft 
+#### 1x V5 robot brain
+#### 4x V5 smart motor (11W) 
+#### 1x V5 robot battery Li-lon 1100mAh
+#### 1x V5 Robot Radio
+#### 2x V5 Battery Clip
+#### 2x 4" wheel
+#### 2x 4" Omni directional wheel 
+#### 1x 180mm V5 Power Cable 
+#### 3x 900mm V5 Smart Cable
+#### 1x 600mm V5 Smart Cable
+#### 1x 300mm V5 Smart Cable
+#### 2x C-Channel 1x2x1x15
+#### 2x Angle 2x2x14x20
+#### 3x U-Channel 2x2x2x20 
+#### 2x C-Chanel 1x2x1x25
