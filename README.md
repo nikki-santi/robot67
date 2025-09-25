@@ -1,9 +1,13 @@
-# Team name 67
+# Team name: 67
 
 ## Robot name: Botzilla
  
 ### Robot duty: Ping pong ball delivery
 When a ping ball ball is dropped onto the floor the bot will use a claw to pick up the claw and grip the ball. It will then start driving to wherever the user/driver of the bot would like. The bot need to be able to go on and around many different surfaces. The most important thing is the material of the bot will be the tires and the claw to create a non slick surface wich wont drop the ball. 
+
+### Updates
+#### 9/23- Had first Sumo match against class. Right front wheel came off during battle as well as some locking nuts. 1-1-1 record from the matches.
+#### 9/25- Making changes on  robot, switching wheels to the omni-direction wheels for all 4 sides to increase ability to manuvuer on the concrete floor. Correcting the tightness of the locking nuts so they don't fall off when hit by other robots.
 
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
