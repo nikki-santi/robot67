@@ -8,7 +8,10 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 ### Updates
 #### 9/23- Had first Sumo match against class. Right front wheel came off during battle as well as some locking nuts. 1-1-1 record from the matches.
 #### 9/25- Making changes on  robot, switching wheels to the omni-direction wheels for all 4 sides to increase ability to manuvuer on the concrete floor. Correcting the tightness of the locking nuts so they don't fall off when hit by other robots.
-#### 10/9- Autonomous code finished and working
+#### 9/30- Switched back to green terrain wheels so we were no longer drifting. Second sumo match 1-1 lost one and won one.
+#### 10/2- Talked about autonomy and researched it for our bot.
+#### 10/7- Coded for autonomous mode.
+#### 10/9- Autonomous code finished and working, attached U shaped arm to contain donut within the bounds of the robot.
 #### 10/10- Tweaking velocity of autonomous mode 
 
 ### Parts List for clawbot tank drive: 
