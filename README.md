@@ -8,6 +8,8 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 ### Updates
 #### 9/23- Had first Sumo match against class. Right front wheel came off during battle as well as some locking nuts. 1-1-1 record from the matches.
 #### 9/25- Making changes on  robot, switching wheels to the omni-direction wheels for all 4 sides to increase ability to manuvuer on the concrete floor. Correcting the tightness of the locking nuts so they don't fall off when hit by other robots.
+#### 10/9- Autonomous code finished and working
+#### 10/10- Tweaking velocity of autonomous mode 
 
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
