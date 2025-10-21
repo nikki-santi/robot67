@@ -15,7 +15,8 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 10/10- Tweaking velocity of autonomous mode 
 #### 10/14- Successful autonomous mode, 180 turns need to be modified 
 
-![Clawbot Sketch]([)](https://github.com/nikki-santi/robot67/blob/main/images/clawbotsketch.png?raw=true)
+
+![sketch](https://github.com/nikki-santi/robot67/blob/main/images/clawbotsketch.png?raw=true)
 
 #### 10/21- 
 ### Parts List for clawbot tank drive: 
