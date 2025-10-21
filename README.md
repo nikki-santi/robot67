@@ -16,9 +16,9 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 10/14- Successful autonomous mode, 180 turns need to be modified 
 
 
-![sketch](https://github.com/nikki-santi/robot67/blob/main/images/clawbotsketch.png?raw=true)
+#### 10/21- ![sketch](https://github.com/nikki-santi/robot67/blob/main/images/clawbotsketch.png?raw=true)
 
-#### 10/21- 
+
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
 #### 30x #8-32x0.375" Star Drive Screw
