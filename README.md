@@ -14,6 +14,7 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 10/9- Autonomous code finished and working, attached U shaped arm to contain donut within the bounds of the robot.
 #### 10/10- Tweaking velocity of autonomous mode 
 #### 10/14- Successful autonomous mode, 180 turns need to be modified 
+#### 10/23- Today we did steps 20-26 we ran into a problem with the placement of our battery so we had to move it and will finish the first part of putting in our claw next class
 
 
 #### 10/21- ![sketch](https://github.com/nikki-santi/robot67/blob/main/images/clawbotsketch.png?raw=true)
