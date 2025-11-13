@@ -22,7 +22,7 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 11/4- Other teams still testing their bots, did not succeed in donut run.
 #### 11/6- One team performed with a faster time than we did knocking us into 2nd place.
 #### 11/11- All teams tested the donut run, one more team beat our time knocking us into 3rd place overall. Found the line sensor we wanted and are discussing plans for capture the flag.
-#### 11/13- Replied to survey regarding capture the flag, discussing uses of line trackers.
+#### 11/13- Replied to survey regarding capture the flag, discussing uses of line trackers. Attaching line censor and coding for it... line sensor works but it goes the opposite direction. Cutting through our base metal so our claw can reach lower to pick up the target item of a ball.
 
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
