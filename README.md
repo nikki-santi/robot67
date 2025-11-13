@@ -18,6 +18,11 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 10/23- Today we did steps 20-26 we ran into a problem with the placement of our battery so we had to move it and will finish the first part of putting in our claw next class
 #### 10/28- Changed our code to script as well as arcade drive instead of tank drive, still working on finishing the claw.
 #### 10/30- Working on the coding for the claw. Still finishing building the claw. Ping pong ball diameter:40mm, 1.57 inches/circumference: 12.56cm, 4.95 inches/weight: 2.67-2.77gm, 0.094-0.098 oz. Completed the claw and it drives and picks up properly.
+#### 10/31- Did our donut run, used 1 of our three tries. 50 seconds was our time to pick up the donuts from one end and bring it to another.
+#### 11/4- Other teams still testing their bots, did not succeed in donut run.
+#### 11/6- One team performed with a faster time than we did knocking us into 2nd place.
+#### 11/11- All teams tested the donut run, one more team beat our time knocking us into 3rd place overall. Found the line sensor we wanted and are discussing plans for capture the flag.
+#### 11/13- Replied to survey regarding capture the flag, discussing uses of line trackers.
 
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
