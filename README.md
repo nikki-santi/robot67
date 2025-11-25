@@ -26,6 +26,7 @@ When a ping ball ball is dropped onto the floor the bot will use a claw to pick 
 #### 11/14- Continued in capture the flag touranment, 2-1 record
 #### 11/18- Record is now 3-2 and we are tied with team 1 for first place.
 #### 11/20- Switched out our drifting wheels because they were bowing, about to see the final results of the tournament today.
+#### 11/25- Added our line sensor, successfully tested, will take a video next class. ![line sensor](https://github.com/nikki-santi/robot67/blob/main/images/linesensor.png?raw=true)
 
 ### Parts List for clawbot tank drive: 
 #### 30x #8-32 Hex Nut
